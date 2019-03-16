@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Code\\School\\CS2282\\BryceGrahamExercise0Recursive-20190316T044158Z-001\\BryceGrahamExercise0Recursive\\BryceGrahamExercise0Recursive\\BryceGrahamExercise0Recursive.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

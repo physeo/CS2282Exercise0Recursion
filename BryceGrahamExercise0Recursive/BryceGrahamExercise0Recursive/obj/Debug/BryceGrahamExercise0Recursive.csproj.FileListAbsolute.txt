@@ -1,0 +1,12 @@
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\bin\Debug\BryceGrahamExercise0Recursive.exe.config
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\bin\Debug\BryceGrahamExercise0Recursive.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\bin\Debug\BryceGrahamExercise0Recursive.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.Exercise0Form.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.Properties.Resources.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.csproj.GenerateResource.Cache
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.pdb
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\bin\Debug\BryceGrahamExercise0Recursive.exe.config
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.exe
+C:\Users\physe\Google Drive\School Stuff\College Spring 2015\CS 282\Projects\BryceGrahamExercise0Recursive\BryceGrahamExercise0Recursive\obj\Debug\BryceGrahamExercise0Recursive.pdb
